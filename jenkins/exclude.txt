@@ -1,0 +1,6 @@
+./workspace
+./war
+./userContent
+./logs
+./caches
+*.apk
